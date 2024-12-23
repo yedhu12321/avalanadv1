@@ -43,7 +43,7 @@ curl -sSfL https://raw.githubusercontent.com/ava-labs/avalanche-cli/main/scripts
 
    Use the provided connection details to connect to your Subnet:
 
-   - **RPC URL:**    https://www.loom.com/share/983b8ba82e844b9699f2662fe14942c4?sid=a6f024e8-631b-4d04-8873-9ac73e33fb8c
+   - **RPC URL:**    http://127.0.0.1:37831/ext/bc/2RVFmAWhu8mqW2fXSJHtHLXuxW1KY8Czq7Ccn7CW5CFopRVYRN/rpc
    - **Funded address:**  0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC with 1000000 (10^18)
    - **Network name:** yedu
    - **Chain ID:** 12321
